@@ -3,8 +3,9 @@
 It's an Search Engine created for searching News,
 It's on beta testing for now.
 
-CEO/FOUNDER- Manav Sahitya✌️
+makers- 
+Manav Sahitya✌️
 
-CO FOUNDER/MANAGER- Grimmy Soul
+ Grimmy Soul
 
 MADE IN INDIA🇮🇳
