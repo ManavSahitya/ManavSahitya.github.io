@@ -5,8 +5,7 @@ It's on beta testing for now.
 
 Makers💻- 
 
-Manav Sahitya✌️
-
- Grimmy Soul
+|Manav Sahitya✌️
+|Grimmy Soul
 
 MADE IN INDIA🇮🇳
