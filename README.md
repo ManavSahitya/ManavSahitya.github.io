@@ -1,11 +1,9 @@
-#Racounter Search V1.0
+#Racounter
  
-It's an Search Engine created for searching News,
-It's on beta testing for now.
+COMING SOON!!
 
 Makers💻- 
 
 |Manav Sahitya✌️
-|Grimmy Soul
 
 MADE IN INDIA🇮🇳
